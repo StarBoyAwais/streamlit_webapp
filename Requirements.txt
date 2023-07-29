@@ -1,1 +1,2 @@
 streamlit_webrtc==0.45.1
+opencv==4.6.0
